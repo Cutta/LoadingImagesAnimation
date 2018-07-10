@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="loading_car_images">
+        <item>@drawable/img_car1</item>
+        <item>@drawable/img_car2</item>
+        <item>@drawable/img_car3</item>
+        <item>@drawable/img_car4</item>
+        <item>@drawable/img_car5</item>
+    </integer-array>
+
+
+    <integer-array name="emojies">
+        <item>@drawable/smiling_face</item>
+        <item>@drawable/face_with_tears_of_joy</item>
+        <item>@drawable/face_with_stuck_out_tongue_and_winking</item>
+        <item>@drawable/face_with_rolling_eyes</item>
+        <item>@drawable/nerd_face</item>
+        <item>@drawable/neutral_face</item>
+    </integer-array>
+
+    <integer-array name="person">
+        <item>@drawable/baby</item>
+        <item>@drawable/child</item>
+        <item>@drawable/adult</item>
+        <item>@drawable/male_student</item>
+        <item>@drawable/older_adult</item>
+        <item>@drawable/older_man</item>
+    </integer-array>
+
+</resources>
