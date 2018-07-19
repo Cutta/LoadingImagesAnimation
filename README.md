@@ -15,7 +15,7 @@ Android loading animation with images changing
 ### USAGE
 
 ``` xml
- <com.example.loadingimages.LoadingImagesView
+ <com.cunoraz.loadingimages.LoadingImagesView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:imagesArray="@array/your_image_array" />
@@ -35,5 +35,5 @@ Project build.gradle
 
 App build.gradle
 ```
-implementation 'com.github.Cutta:LoadingImagesAnimation:1.0'
+implementation 'com.github.Cutta:LoadingImagesAnimation:1.1'
 ```
