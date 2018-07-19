@@ -1,4 +1,4 @@
-package com.example.loadingimages;
+package com.cunoraz.loadingimages;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.loadingimages.test", appContext.getPackageName());
+        assertEquals("com.cunoraz.loadingimages.test", appContext.getPackageName());
     }
 }

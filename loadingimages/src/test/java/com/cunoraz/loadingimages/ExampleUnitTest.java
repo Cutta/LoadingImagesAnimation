@@ -1,4 +1,4 @@
-package com.example.loadingimages;
+package com.cunoraz.loadingimages;
 
 import org.junit.Test;
 
